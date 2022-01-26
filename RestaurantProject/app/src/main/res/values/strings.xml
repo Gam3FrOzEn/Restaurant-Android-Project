@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RestaurantProject</string>
+
+    <string-array name="foods">
+        <item>Паста</item>
+        <item>Пица</item>
+        <item>Пържола</item>
+        <item>Кюфте</item>
+        <item>Тирамису</item>
+        <item>Торта</item>
+        <item>Панакота</item>
+    </string-array>
+</resources>
